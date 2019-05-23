@@ -1,4 +1,4 @@
 #!/bin/sh
 git add -A
-git commit -am "my update msg"
+git commit -am "otro update msg"
 git push 
